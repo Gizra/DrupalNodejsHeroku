@@ -5,7 +5,7 @@ settings = {
   resource: '/socket.io',
   serviceKey: '',
   backend: {
-    host: 'YOU NEED TO CHANGE IT',
+    host: 'dev.circuit.gotpantheon.com',
     port: 80,
     scheme: 'http',
     messagePath: '/nodejs/message'
