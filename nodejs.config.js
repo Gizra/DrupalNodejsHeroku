@@ -3,9 +3,9 @@ settings = {
   port: process.env.PORT || 5000,
   host: '',
   resource: '/socket.io',
-  serviceKey: '',
+  serviceKey: '8383cn83un4d83un4d83',
   backend: {
-    host: 'dev.circuit.gotpantheon.com',
+    host: 'http://new.kedem-auctions.com',
     port: 80,
     scheme: 'http',
     messagePath: '/nodejs/message'
